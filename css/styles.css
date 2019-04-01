@@ -1,0 +1,21 @@
+.jumbotron {
+  margin: 5px;
+  border-color: black;
+  background-color: #1c6fb2;
+  text-align: center;
+}
+
+#languages {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#quiz {
+  display: none;
+}
+
+body {
+  background-color: #e09545
+}
