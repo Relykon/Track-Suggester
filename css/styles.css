@@ -16,6 +16,10 @@
   display: none;
 }
 
+#results {
+  display: none;
+}
+
 body {
   background-color: #e09545
 }
