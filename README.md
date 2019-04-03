@@ -1,18 +1,18 @@
 # Track_Suggester
 
-#### A portfolio of my work, 03.22.2019
+#### A portfolio of my work, 04.02.2019
 
 #### By **Kyle Harrington**
 
 ## Description
 
-This page is a survey that's intent is to help a person interested in programming narrow down their preferred choice of languages.
+This page is a 5 question survey that's intent is to help a person interested in programming narrow down their preferred choice of languages.
 
 ## Setup/Installation Requirements
 
-* clone the GitHub repository: https://github.com/Relykon/Portfolio.git
+* clone the GitHub repository: https://github.com/Relykon/Track-Suggester.git
 * open with the text editor of your choice
-* or view live at GitHub: https://relykon.github.io/Portfolio/  
+* or view live at GitHub: https://relykon.github.io/Track-Suggester/  
 
 
 ## Known Bugs
