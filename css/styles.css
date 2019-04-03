@@ -1,5 +1,6 @@
 .jumbotron {
   margin: 5px;
+  padding: 10px;
   border-color: black;
   background-color: #1c6fb2;
   text-align: center;
@@ -14,10 +15,13 @@
 
 #quiz {
   display: none;
+  text-align: center;
+  padding: 20px;
 }
 
 #results {
   display: none;
+  margin-top: 20px;
 }
 
 body {
