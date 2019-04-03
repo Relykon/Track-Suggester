@@ -1,6 +1,9 @@
 $(document).ready(function() {
-  $("#showQuiz").click(function() {
+    $("#showQuiz").click(function() {
     $("#quiz").slideToggle();
+    $("#results").hide();
+    $(':input').prop('checked', false);
+
   });
 
   $("#quiz").submit(function(event) {
@@ -14,7 +17,6 @@ $(document).ready(function() {
 
 
     var language = (Q1+Q2+Q3+Q4+Q5);
-
     $("#results").show();
     $("#quiz").slideToggle();
     $("#showQuiz").text("Try Again");
@@ -30,7 +32,7 @@ $(document).ready(function() {
     } else {
       $("#result1").hide();
       $("#result2").hide();
-      $("result3").show();
+      $("#result3").show();
     }
   });
 });
